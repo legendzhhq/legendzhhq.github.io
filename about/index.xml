@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huaqing&#39;s blog</title>
-    <link>https://legendzhhq.github.io/about/</link>
-    <description>Recent content on Huaqing&#39;s blog</description>
+    <title>关于本站 on Huaqing&#39;s blog</title>
+    <link>https://wwww.zhuhuaqing.com/about/</link>
+    <description>Recent content in 关于本站 on Huaqing&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://legendzhhq.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wwww.zhuhuaqing.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
