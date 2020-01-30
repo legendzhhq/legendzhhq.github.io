@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于本站 on Huaqing&#39;s blog</title>
-    <link>https://wwww.zhuhuaqing.com/about/</link>
+    <link>https://www.zhuhuaqing.com/about/</link>
     <description>Recent content in 关于本站 on Huaqing&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://wwww.zhuhuaqing.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.zhuhuaqing.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
