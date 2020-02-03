@@ -90,7 +90,35 @@
 
 			</div>
 			
-<aside class="sidebar">
+<aside class="sidebar"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" id='search_submit_form' autocomplete="off">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="搜索..." value="" id="search_keywords" aria-label="搜索...">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">		
+	</form>
+</div>
+<script>
+function doSearch(){
+	search_kw = document.getElementById('search_keywords').value;
+	search_kw = search_kw.replace(/((^\s*)|(\s*$))/gm,'');
+	if (search_kw.length === 0) {
+		return;
+	}
+
+	target_searchUrl = 'https://www.bing.com/search?q=' + 
+	encodeURI(search_kw) + 
+	'+site:' + document.domain;
+	document.location.href = target_searchUrl;
+};
+
+document.getElementById('search_submit_form').addEventListener("submit", function(event_) {
+	event_.preventDefault();
+	console.log('catch event');
+	doSearch();	
+});
+
+</script>
 <div class="widget-recent widget">
 	<h4 class="widget__title">近期文章</h4>
 	<div class="widget__content">
