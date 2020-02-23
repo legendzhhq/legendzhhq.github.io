@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>思念 on Huaqing&#39;s blog</title>
+    <link>https://www.zhuhuaqing.com/tags/%E6%80%9D%E5%BF%B5/</link>
+    <description>Recent content in 思念 on Huaqing&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 08 Mar 2018 19:29:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.zhuhuaqing.com/tags/%E6%80%9D%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>想家</title>
+      <link>https://www.zhuhuaqing.com/post/homesick/</link>
+      <pubDate>Thu, 08 Mar 2018 19:29:11 +0800</pubDate>
+      
+      <guid>https://www.zhuhuaqing.com/post/homesick/</guid>
+      <description>一个人在外面难免孤独， 我想家，想妈妈了。</description>
+    </item>
+    
+  </channel>
+</rss>

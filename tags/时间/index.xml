@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>时间 on Huaqing&#39;s blog</title>
+    <link>https://www.zhuhuaqing.com/tags/%E6%97%B6%E9%97%B4/</link>
+    <description>Recent content in 时间 on Huaqing&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 02 Feb 2018 19:29:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.zhuhuaqing.com/tags/%E6%97%B6%E9%97%B4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>是否近了？</title>
+      <link>https://www.zhuhuaqing.com/post/nearer/</link>
+      <pubDate>Fri, 02 Feb 2018 19:29:11 +0800</pubDate>
+      
+      <guid>https://www.zhuhuaqing.com/post/nearer/</guid>
+      <description>是否近了？ 是的， 当然。 或许， 就在今日。 即或不然， 我想最多 再有半百年时。 我将， 如众位朋友所 共同期盼和经历的， 与那位相见。</description>
+    </item>
+    
+    <item>
+      <title>假以时日</title>
+      <link>https://www.zhuhuaqing.com/post/overtime/</link>
+      <pubDate>Mon, 29 Jan 2018 19:29:11 +0800</pubDate>
+      
+      <guid>https://www.zhuhuaqing.com/post/overtime/</guid>
+      <description>假以时日， 我的容颜会改变， 身体会衰残， 但我对生活的看法或许会更深刻； 假以时日， 我将有更多的经历， 这其中很可能会有痛苦和悲伤， 但住在我里面的，</description>
+    </item>
+    
+  </channel>
+</rss>
