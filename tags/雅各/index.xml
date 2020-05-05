@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雅各 on Huaqing&#39;s blog</title>
+    <link>https://www.zhuhuaqing.com/tags/%E9%9B%85%E5%90%84/</link>
+    <description>Recent content in 雅各 on Huaqing&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 Sep 2016 19:29:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.zhuhuaqing.com/tags/%E9%9B%85%E5%90%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who am I？</title>
+      <link>https://www.zhuhuaqing.com/post/whoami/</link>
+      <pubDate>Wed, 07 Sep 2016 19:29:11 +0800</pubDate>
+      
+      <guid>https://www.zhuhuaqing.com/post/whoami/</guid>
+      <description>我是有多么的自信， 以为我可以改变什么， 但扎实的生活，有时教训我，我似乎能改变的很少。 如雅各与神摔跤，最后自己腿瘸了，有了绝望。 无力地低下头来</description>
+    </item>
+    
+  </channel>
+</rss>
