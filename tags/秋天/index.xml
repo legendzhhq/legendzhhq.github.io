@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>秋天 on Huaqing&#39;s blog</title>
+    <link>https://www.zhuhuaqing.com/tags/%E7%A7%8B%E5%A4%A9/</link>
+    <description>Recent content in 秋天 on Huaqing&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Sep 2015 19:29:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.zhuhuaqing.com/tags/%E7%A7%8B%E5%A4%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>九月</title>
+      <link>https://www.zhuhuaqing.com/post/september/</link>
+      <pubDate>Wed, 09 Sep 2015 19:29:11 +0800</pubDate>
+      
+      <guid>https://www.zhuhuaqing.com/post/september/</guid>
+      <description>夏天的酷暑和燥热渐渐退去， 一个新的月份和季节正悄悄地来到， 这是九月。 早晨秋意的凉爽中，仍带着夏天的余热； 午后的阳光叫我知道秋天尚未正式登场。</description>
+    </item>
+    
+  </channel>
+</rss>
