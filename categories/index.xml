@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Huaqing&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Nov 2021 23:42:18 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 22:41:10 +0800</lastBuildDate>
     
 	<atom:link href="https://www.zhuhuaqing.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>生活</title>
+      <link>https://www.zhuhuaqing.com/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sun, 03 Dec 2023 22:41:10 +0800</pubDate>
+      
+      <guid>https://www.zhuhuaqing.com/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>思考</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 24 Nov 2021 23:42:18 +0800</pubDate>
       
       <guid>https://www.zhuhuaqing.com/categories/%E6%80%9D%E8%80%83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>生活</title>
-      <link>https://www.zhuhuaqing.com/categories/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Mon, 26 Apr 2021 23:18:40 +0800</pubDate>
-      
-      <guid>https://www.zhuhuaqing.com/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     
